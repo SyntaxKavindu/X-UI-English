@@ -41,7 +41,7 @@ kind a fork from [taffychan's x-ui](https://github.com/taffychan/x-ui) + [hossin
 # Single Command Install & upgrade
 
 ````
-bash <(curl -Ls https://raw.githubusercontent.com/NidukaAkalanka/x-ui-english/master/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/SyntaxKavindu/X-UI-English/master/install.sh)
 ````
 
 ## Manual install & upgrade
